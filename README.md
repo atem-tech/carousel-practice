@@ -1,6 +1,5 @@
 # bootstrap-boilerplate
 
-
 class challenge
 This project was started on March 1, 2022.
 
